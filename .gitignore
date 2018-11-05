@@ -1,0 +1,7 @@
+# configs and OS files
+.vscode
+.DS_Store
+
+# generated files
+build
+mbed-edge
